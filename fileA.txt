@@ -1,3 +1,7 @@
 First entry
+<<<<<<< HEAD
 
 NOw uPDted
+=======
+Updated by Alastair
+>>>>>>> 12bd000ace960ecc7cdce28261897810ae1f1462
